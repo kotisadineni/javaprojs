@@ -3,6 +3,6 @@
   <groupId>SpringCore</groupId>
   <artifactId>org.springcore</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>SpringCoreDemo</name>
-  <description>SpringCoreApp</description>
+  <name>SpringCoreApp</name>
+  <description>SpringCoreDemo</description>
 </project>
